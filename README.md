@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nenyaa
 - 👀 I’m interested in software development
-- 🌱 My current stack: reactjs, python, django,  
+- 🌱 My tech stack: reactjs, python, django  
 - 📫 How to reach me - just mail me
 
 <!---
